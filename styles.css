@@ -1,0 +1,11 @@
+body{
+  background-color:Black;
+}
+p{
+  color:White;
+}
+a{
+  color:Cyan;
+  background-image:url('src/pictures/button.png');
+
+}
