@@ -1,3 +1,4 @@
 a{
-  background-image:src/pictures/button.png
+  display:block;
+  background-image:src/pictures/button.png;
 }
