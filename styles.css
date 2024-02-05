@@ -5,16 +5,16 @@
   font-style: normal;
 }
 body{
-  background-color:Black;
+  
 }
 p{
   color:White;
 }
 a{
-  color:Cyan;
+  color:White;
   background-image:url('src/pictures/button.png');
   text-decoration:none;
-  background-size:150% 100%;
+  background-size:200% 100%;
   background-repeat:repeat-x;
   font-family:'McFont';
 }
