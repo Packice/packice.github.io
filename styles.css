@@ -24,8 +24,8 @@ a{
   color:White;
   background-image:url('src/pictures/button.png');
   text-decoration:none;
-  background-size:200% 100%;
   font-family:'McFont';
   display:block;
   width:150px;
+  text-align:center;
 }
