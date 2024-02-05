@@ -13,5 +13,6 @@ p{
 a{
   color:Cyan;
   background-image:url('src/pictures/button.png');
+  background-size:150% 100%;
   font-family:'McFont';
 }
