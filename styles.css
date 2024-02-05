@@ -24,4 +24,6 @@ a{
   background-size:200% 100%;
   background-repeat:repeat-x;
   font-family:'McFont';
+  display:block;
+  width:200%;
 }
