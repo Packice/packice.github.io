@@ -13,6 +13,7 @@ p{
 a{
   color:Cyan;
   background-image:url('src/pictures/button.png');
+  text-decoration:none;
   background-size:150% 100%;
   background-repeat:repeat-x;
   font-family:'McFont';
