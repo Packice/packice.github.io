@@ -4,8 +4,8 @@
   font-weight: normal;
   font-style: normal;
 }
-body{
-  
+#main{
+  background-image:/src/pictures/background.png;
 }
 #hiddenmima{
   background-color:#2e64fe;
