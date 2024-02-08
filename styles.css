@@ -16,7 +16,7 @@ h1{
 }
 p{
   color:#3399ff;
-  text-align: center;
+  
 }
 a{
   color:White;
@@ -26,4 +26,8 @@ a{
   display:block;
   width:160px;
   text-align:center;
+}
+footer{
+  text-align: center;
+  background-colour:#d3d3f7;
 }
